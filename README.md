@@ -1,4 +1,4 @@
-# Hi there, I'm Larryhius! 👋
+# Hi there, I'm Larry! 👋
 
 ### 🕵️‍♂️ Red Team CTF Player | 🛠 Reverse Engineering Enthusiast | 🔍 OSINT Explorer
 
@@ -24,16 +24,5 @@ Welcome to my GitHub! I'm passionate about cybersecurity, CTF challenges, and re
 
 🔍 **Security Areas:** Binary Exploitation, Web Security, Malware Analysis, OSINT
 
-🛠 **Tools:** Ghidra, IDA Pro, Wireshark, Burp Suite, Metasploit, Nmap, Radare2
 
-## 📬 Let's Connect
 
-- 🔗 [Twitter](https://twitter.com/yourhandle) – Security research & thoughts
-- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) – Let's network!
-- 🌎 Personal Blog (Coming soon...)
-
-_"The quieter you become, the more you can hear." – Ram Dass_
-
----
-
-Feel free to explore my repositories and drop a ⭐ if you find something useful! 😊
